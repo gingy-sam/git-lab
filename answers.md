@@ -54,3 +54,19 @@ Date:   Tue Sep 3 16:44:59 2024 -0400
     Initial commit
 
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10:
+Nothing popped up.
+
+Answer 11: 
+It rejects the command.
+
+Answer 12: 
+Yes the changes I made online showed up in my local copy.
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
